@@ -7,7 +7,7 @@ This extension is usefull to see the weather forecast for a given city. It was b
 ## Getting Started
 
 1. Go to [OpenWeather](https://openweathermap.org/), register there and create your own API key
-2. `npm i` to install dependancies
+2. `npm i` to install dependencies
 3. `npm start` to start running the fast development mode Webpack build process that bundle files into the `dist` folder
 4. `npm i --save-dev <package_name>` to install new packages
 
